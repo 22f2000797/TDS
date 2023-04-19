@@ -11,4 +11,4 @@ numC = st.number_input("Insert the third number **C**")
 largest = max(numA, numB, numC)
 
 st.write("The largest of the three numbers is")
-st.write(f"#${largest}")
+st.write(largest)
